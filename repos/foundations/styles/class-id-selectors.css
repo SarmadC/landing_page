@@ -1,0 +1,25 @@
+body {
+    margin-bottom: 12px;
+}
+
+.n1,
+.n3,
+.n5 {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#n2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.n3 {
+    font-size: 24px;
+}
+
+#n4 {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
